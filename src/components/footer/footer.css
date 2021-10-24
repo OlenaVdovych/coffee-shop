@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda&display=swap');
+
+.footer {
+    position: absolute;
+    width: 1440px;
+    height: 150px;
+    margin-top: 1800px;
+
+    background: #FFFFFF;
+}
+
+.ft {
+    position: absolute;
+    width: 355px;
+    height: 40px;
+}
+
+a.ft-logo {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    margin: 30px 790px 80px 542px;
+}
+
+a.ft {
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 17px;
+    /* identical to box height */
+
+
+    color: #000000;
+}
+
+a.ft-beans {
+    position: absolute;
+    width: 77px;
+    height: 18px;
+    margin: 30px 790px 80px 542px;
+}
+
+a.ft-our-coffee {
+    position: absolute;
+    width: 63px;
+    height: 18px;
+    margin: 52px 687px 80px 690px;
+}
+
+a.ft-pleasure {
+    position: absolute;
+    width: 104px;
+    height: 18px;
+    margin: 52px 543px 80px 793px;
+}
+
+.footer-logo {
+    position: absolute;
+    width: 200px;
+    height: 29.3px;
+    margin: 100px 620px 20.7px 620px;
+}
+
+img.bean {
+    margin-right: 10px;
+}
+
+img.line5{
+    margin: 0px 10px 10px 10px;
+    margin-bottom: 12px;
+    }
+    
+img.line6{
+    margin-bottom: 12px;    
+}

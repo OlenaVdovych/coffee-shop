@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda&display=swap');
+
+nav {
+    position: absolute;
+    width: 355px;
+    height: 40px;
+    margin: 50px 931px 550px 154px;
+}
+
+.logo {
+    position: absolute;
+    width: 108px;
+    height: 35px;
+    margin-top: 41px;
+    margin-left: 176px;
+}
+
+a {
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 17px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+a.beans {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    margin-top: 41px;
+    margin-left: 180px;
+}
+
+a.our-coffee {
+    position: absolute;
+    width: 63px;
+    height: 18px;
+    margin-top: 63px;
+    margin-left: 294px;
+    padding-left: 40px;
+}
+
+a.pleasure {
+    position: absolute;
+    width: 104px;
+    height: 18px;
+    margin-top: 63px;
+    margin-left: 397px;
+    padding-left: 40px;
+}
+

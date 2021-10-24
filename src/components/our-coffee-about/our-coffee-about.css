@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda&display=swap');
+
+.about-coffee {
+    width: 1440px;
+    height: 865px;
+}
+
+.banner-about {
+    position: absolute;
+    width: 1440px;
+    height: 260px;
+}
+
+h1.h-about {
+    position: absolute;
+    width: 223px;
+    height: 46px;
+    margin: 107px 624px 107px 593px;
+
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 58px;
+
+    color: #FFFFFF;
+}
+
+.card-about {
+    position: absolute;
+    width: 392px;
+    height: 355px;
+    margin: 330px 768px 30px 280px;
+
+    filter: drop-shadow(5px 5px 30px rgba(0, 0, 0, 0.25));
+}
+
+h2.about-it {
+    position: absolute;
+    width: 99px;
+    height: 26px;
+    margin: 338px 447px 351px 894px;
+
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 35px;
+
+    color: #000000;
+}
+
+.coffee-info {
+    position: absolute;
+    width: 200px;
+    height: 29.3px;
+    margin: 385px 396px 300.7px 844px;
+}
+
+img.line9 {
+    margin: 0px 10px 10px 10px;
+    margin-bottom: 12px;
+}
+
+img.line10 {
+    margin-bottom: 12px;
+}
+
+h4.h-about {
+    position: absolute;
+    width: 104px;
+    height: 21px;
+    margin: 440px 609px 254px 727px;
+
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height */
+
+
+    color: #000000;
+}
+
+p.p-about {
+    position: absolute;
+    width: 418px;
+    height: 102px;
+    margin: 477px 295px 136px 727px;
+
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: left;
+
+    color: #000000;
+
+}
+
+h3.price {
+    position: absolute;
+    width: 127px;
+    height: 35px;
+    margin: 595px 586px 85px 727px;
+
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+
+    color: #000000;
+
+}

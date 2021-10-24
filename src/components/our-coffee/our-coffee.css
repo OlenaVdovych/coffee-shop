@@ -1,0 +1,286 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda&display=swap');
+
+.body-coffee {
+    position: absolute;
+    width: 1440px;
+    height: 1248px;
+
+    background: #FFFFFF;
+}
+
+img.banner {
+    position: absolute;
+    width: 1440px;
+    height: 260px;
+}
+
+h1.coffee {
+    position: absolute;
+    width: 223px;
+    height: 46px;
+    margin: 130px 609px 84px 608px;
+
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 58px;
+
+    color: #FFFFFF;
+}
+
+img.face {
+    position: absolute;
+    width: 272px;
+    height: 355px;
+    margin: 296px 777px 823px 391px;
+
+    filter: drop-shadow(5px 5px 30px rgba(0, 0, 0, 0.25));
+}
+
+h2 {
+    position: absolute;
+    width: 197px;
+    height: 26px;
+    margin: 339px 423px 1143px 820px;
+
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 35px;
+
+    color: #000000;
+}
+
+.logo-info {
+    position: absolute;
+    width: 200px;
+    height: 29.3px;
+    margin: 385px 420px 1093.7px 820px;
+}
+
+img.line7 {
+    margin: 0px 10px 10px 10px;
+    margin-bottom: 12px;
+}
+
+img.line8 {
+    margin-bottom: 12px;
+}
+
+.p-info {
+    position: absolute;
+    width: 346px;
+    height: 232px;
+    margin: 440px 352px 836px 742px;
+
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+
+    color: #000000;
+}
+
+img.line-coffee {
+    position: absolute;
+    width: 240px;
+    height: 0px;
+    margin: 745px 600px 763px 600px;
+
+    border: 1px solid #000000;
+}
+
+.look {
+    position: absolute;
+    width: 284px;
+    height: 30px;
+}
+
+.look-h1 {
+    position: absolute;
+    width: 85px;
+    height: 21px;
+    margin: 805px 773px 663px 383px;
+
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #000000;
+}
+
+.input {
+    position: absolute;
+    width: 108px;
+    height: 18px;
+    margin: 805px 773px 673px 487px;
+
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 17px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.filter {
+    position: absolute;
+    width: 326px;
+    height: 30px;
+    /* margin: 806px 364px 672px 750px; */
+
+}
+
+.filter-h1 {
+    position: absolute;
+    width: 326px;
+    height: 30px;
+    margin: 805px 634px 677px 600px;
+
+}
+
+.btn-filter {
+    position: absolute;
+    width: 36px;
+    height: 18px;
+
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 17px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #000000;
+}
+
+.btn-1 {
+    position: absolute;
+    width: 75px;
+    height: 30px;
+    margin: 805px 524px 672px 841px;
+}
+
+.btn-2 {
+    position: absolute;
+    width: 75px;
+    height: 30px;
+    margin: 805px 444px 672px 921px;
+}
+
+.btn-3 {
+    position: absolute;
+    width: 75px;
+    height: 30px;
+    margin: 805px 364px 672px 1001px;
+}
+
+.card-if1,
+.card-if2,
+.card-if3,
+.card-if4,
+.card-if5,
+.card-if6 {
+    position: absolute;
+    width: 220px;
+    height: 260px;
+    background-color: #fff;
+    filter: drop-shadow(5px 5px 15px rgba(0, 0, 0, 0.25));
+    cursor: pointer;
+}
+
+img.card-if-img {
+    position: absolute;
+    width: 167px;
+    height: 115px;
+    margin: 37px 27px 108px 26px;
+}
+
+.card-h4 {
+    position: absolute;
+    width: 172px;
+    height: 15px;
+    margin: 166px 25px 79px 23px;
+
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+
+    color: #000000;
+
+}
+
+.country {
+    position: absolute;
+    width: 41px;
+    height: 14px;
+    margin: 195px 27px 51px 146px;
+
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: right;
+
+    color: #000000;
+}
+
+.card-h5 {
+    position: absolute;
+    width: 38px;
+    height: 15px;
+    margin: 223px 25px 22px 157px;
+
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+
+    color: #000000;
+
+}
+
+.card-if1 {
+    margin: 896px 901px 352px 319px;
+}
+
+.card-if2 {
+    margin: 896px 610px 352px 610px;
+}
+
+.card-if3 {
+    margin: 896px 321px 352px 899px;
+}
+
+.card-if4 {
+    margin: 1216px 901px 32px 319px;
+}
+
+.card-if5 {
+    margin: 1216px 610px 32px 610px;
+}
+
+.card-if6 {
+    margin: 1216px 321px 32px 899px;
+}

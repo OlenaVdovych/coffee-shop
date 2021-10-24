@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda&display=swap');
+
+.bg {
+    position: absolute;
+    width: 1440px;
+    height: 495px;
+    margin-top: 1300px;
+}
+
+.product {
+    position: absolute;
+    width: 1440px;
+    height: 495px;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1550px;
+    padding: 10px;
+}
+
+div.card1,
+div.card2,
+div.card3 {
+    background-color: #fff;
+    position: absolute;
+    width: 220px;
+    height: 240px;
+    border-radius: 10px solid #fff;
+    cursor: pointer;
+}
+
+div.card1 {
+    margin: 145px 900px 110px 320px;
+}
+
+div.card2 {
+    margin: 145px 609px 110px 611px;
+}
+
+div.card3 {
+    margin: 145px 318px 110px 902px;
+}
+
+.card {
+    position: absolute;
+    width: 220px;
+    height: 240px;
+}
+
+img.card1 {
+    position: absolute;
+    width: 151px;
+    height: 130px;
+    margin: 22px 35px 88px 34px;
+}
+
+img.card2 {
+    position: absolute;
+    width: 151px;
+    height: 134px;
+    margin: 22px 36px 84px 33px;
+}
+
+img.card3 {
+    position: absolute;
+    width: 167px;
+    height: 115px;
+    margin: 37px 27px 88px 26px;
+}
+
+h3.best {
+    position: absolute;
+    width: 103px;
+    height: 26px;
+    margin: 1400px 668px 389px 669px;
+
+
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 35px;
+    text-align: center;
+
+    color: #000000;
+}
+
+h4 {
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #000000;
+}
+
+h5 {
+    position: absolute;
+    width: 47px;
+    height: 21px;
+
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #000000;
+}
+
+h4.card1 {
+    position: absolute;
+    width: 177px;
+    height: 21px;
+    margin: 166px 22px 53px 21px;
+}
+
+h5.card1,
+h5.card2,
+h5.card3 {
+    margin: 197px 20px 22px 153px;
+}
+
+h4.card2 {
+    position: absolute;
+    width: 173px;
+    height: 21px;
+    margin: 166px 24px 53px 23px;
+}
+
+h4.card3 {
+    position: absolute;
+    width: 172px;
+    height: 21px;
+    margin: 166px 25px 53px 23px;
+}

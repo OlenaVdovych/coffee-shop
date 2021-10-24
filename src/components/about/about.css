@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda&display=swap');
+
+.rectangle {
+    position: absolute;
+    width: 1440px;
+    height: 520px;
+    margin-top: 700px;
+
+    background: #FFFFFF;
+}
+
+h3.about {
+    position: absolute;
+    width: 108px;
+    height: 26px;
+    margin: 90px 662px 404px 670px;
+
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 35px;
+
+    color: #000000;
+
+}
+
+.group-logo {
+    position: absolute;
+    width: 200px;
+    height: 29.3px;
+    margin: 136px 616px 354.7px 624px;
+}
+
+.group {
+    margin-right: 12px;
+}
+
+img.line3{
+margin: 0px 10px 10px 10px;
+margin-bottom: 12px;
+}
+
+img.line4{
+    margin-bottom: 12px;    
+}
+
+p {
+    position: absolute;
+    width: 589px;
+    height: 223px;
+    margin: 206px 420px 91px 431px;
+
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+
+    color: #000000;
+
+}
